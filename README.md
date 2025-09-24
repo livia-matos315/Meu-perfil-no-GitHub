@@ -1,6 +1,7 @@
 # Bem vindo ao meu perfil do GitHub
-## 👋 Olá, meu nome é Lívia, tenho 17 anos  
-## **👩‍💻Sobre Mim**  
+## 👋 Olá, meu nome é Lívia  
+### 👩‍💻Sobre Mim
+ 
 🌱Atualmente estou cursando o **2°** ano do ensino médio na escola **SESI** de Osvaldo Cruz e no **1°** Ano do curso de desenvolvimento de sistemas pelo **SENAI**. E pelo curso eu me envolvi muito no ramo de tecnologia, estou aprendendo Node, JavaScript, XML, JSON e em cada uma das matérias aprendemos a lidar com linguagens de prgramação e de marcação. Meu objetivo no curso é explorar novas linguagens, frameworks e boas práticas de desenvolvimento, além de adquirir conhecimento profissional.  
 
 **🌟 Interesses Pessoais**  
